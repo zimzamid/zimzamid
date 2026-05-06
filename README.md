@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="nizhamcode.png" width="100%" alt="Nizham Code Banner"/>
+  <img src="nizhamcode.webp" width="100%" alt="Nizham Code Banner"/>
 </p>
 
 <h1 align="center">
-  👋 Hi, I'm Abdullah Nizham Alfakhri
+  Assalamu'alaikum 👋 Hi, I'm Abdullah Nizham Alfakhri
 </h1>
 
 <h3 align="center">
